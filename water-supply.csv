@@ -1,0 +1,60 @@
+ULB_name,Source_of_water,Water_Demand_(MLD),Water_Treatment_facility_(MLD),Utilisation_of_treatment_facility,Storage_Capacity_(MLD),Protected_water_supply_reservoirs,Total_installed_capacity_of_protected_water_supply_(MGD),House_service_connections_(No's),Public_stand_posts,Length_of_distribution_pipe_line_(Kms),Area_Covered_(%),Water_supply_through_bore_wells_(MGD),Power_bores_(No's),Hand_bores_(No's),Water_Connections_(No's),Residential_Connections,Commercial_Connections,Metered_Connections,Covered_Population_(%),Unserved_population_(%),No_of_Hours_supply_in_a_day,Cost_Recovery_of_Maintenance
+Andol-Jogipet,"Etigadda,Sathyasai,Vonappuram,Borewells",2.92,0,0,3.3,1,0,1375,2,28.5,72,1.38,110,4,1375,1230,145,0,80,5,1,495000
+Armoor,surface and ground water,7,11.5,5.5,3.5,1,22,10358,254,103,100,1.98,192,56,10358,10358,0,0,98.2,1.8,6,0
+Atchampet,Bore wells,3,0.6,4,0.5,0,1,3450,400,18,80,0,92,56,3450,3450,0,0,90,10,0,24
+Badangpet,HMWS&SB BORE WELLS,14.25,0,0,7,0,0,14020,0,163.14,45,0.29,370,30,14020,14020,0,0,54.7,45.3,1,16824000
+Badepally,"Bore motors,Raman paad",1.82,0,0,1.82,0,0,4548,0,44.42,75,0.5,110,12,4548,4548,0,0,75,25,1,0
+Bellampalle,Godavari,7,0,0,6.6,2,2,2500,200,30,80,0.5,15,535,2500,2500,0,0,80,20,12,0
+Bhainsa,GADENNAVAGU PROJECT,8,3.75,3.75,1.5,2,5,3200,45,36,45,1.18,109,72,3200,3200,0,0,0,0,15,3000000
+Bhupalapally,Ground Water - Bore Wells,0,0,0,0,0,0,0,0,0,0,0,37,120,3060,2500,560,0,0,0,1,0
+Bodhan,Bellal Tank,10,12.22,12.22,12.22,8,0,10421,123,86,85,0.04,15,25,10421,10396,25,0,85,15,1,0
+Boduppal,HMWS & SB,15,0,0,4.1,0,4,10700,21,25,40,0.2,52,4,0,10700,0,0,60,40,1,0
+Devarakonda,"Krishnawater,pendlipakala reservoir",4,4,0,0,0,0,3264,0,0,0,1,28,81,0,2965,286,0,90,10,2,60000
+Dubbaka,Bore wells & Mission Bhagiratha,2.8,0,0,2.8,2,0,4015,0,22.02,100,1.62,268,11,4015,4015,0,0,96,0,1,0
+Gadwal,"Krishna river,Jamulamma river",6.31,5.4,0,0,0,0,0,0,0,0,0,5,180,0,0,0,0,0,0,0,0
+Gajwel,power bores & Godavari,6.75,0,0,4.7,4,3,8650,12,130,100,0.31,5,0,8650,8638,12,0,100,0,2,51
+Husnabad,openwells borewells,2.15,1.25,0,0,0,0,3325,100,30,0,0,18,108,0,0,0,0,0,0,1,0
+Huzurabad,Open Wells,1.77,0,0,0,0,0,2961,0,20,60,0,2,131,0,0,0,0,70,30,1,0
+Huzurnagar,"Bethavolu tank, mattapalli schemeKrishna river , pws bore wells",3.76,1.02,1.02,1.02,1,0,2327,197,47,76,0.18,28,212,2327,2327,0,0,82,18,1,0
+Ieeja,Power Borewells,1.5,1,0,1.5,0,0,1250,0,8.5,60,0,60,30,1250,1250,0,0,60,0,1,0
+Jagtial,Dharma Samudram ss tank fed by SRSP Cancal,13.9,11.55,11.55,4.73,4,1155,13913,20,0,80,0.02,9,166,13913,13844,69,0,80,20,1,0
+Jammikunta,MANAIR VAGU,1.72,0,0,0.8,3,0,5600,120,62,70,0,5,130,5920,5600,200,0,0,0,1,0
+Jangoan,Cheetakodur reservoir and Mission Bhagiratha,7.64,7.1,7.1,7.64,1,0,6350,391,120.4,80,0,48,348,6350,6350,0,0,0,0,0,0
+Jelpally,Bore wells,13.5,0,0,0.75,0,0,7140,96,136,80,4.6,302,0,0,7140,100,0,80136,22589,1,24
+Jillelguda,HMWS Metro Water & Power Bores,9.45,0,0,0.7,3,0,0,0,6.5,95,1,29,0,1400,1400,0,0,95,5,1,3
+Kagaznagar,Peddavagu Perinial River,5.5,0,0,0,2,0,4861,448,0,0,0,0,247,4847,4841,6,0,0,0,1,0
+Kalwakurthy,Ground level,1.5,0,0,1.7,0,0,4260,0,12,75,0,81,0,4260,4164,96,0,80,20,1,0
+Kamareddy,"Kamareddy Pedda Cheruvu, SRSP",12.5,15.75,15.72,6.7,7,15,7571,200,145,80,1.6,203,90,7571,7571,5,0,71,20,1,90
+Karimnagar,LMD,60.38,48,37,17.9,15,10,42500,591,315,75,0.12,0,941,42500,42258,240,2,80,22,1,390
+Kollapur,"Krishna River,Open Wells,Power Bores",1.2,0.8,0.8,1,0,317006,3350,14,56,60,0.53,8,87,3350,3350,0,0,85,15,1,1000
+Korutla,Korutla Vagu & SRSP Main Canal,9.94,14,0,4.63,6,1,5210,135,66.64,45,0.07,98,307,4971,4955,16,0,45,55,1,55
+Kothagudem,Kinnerasani Reservoir,25,0,0,0,0,0,8615,150,159.12,0,1.6,0,185,8615,8595,20,0,0,0,0,0
+Mahabubnagar,Ramanpad and Koilsagar,32.5,22,22,12,17,12,18976,253,0,0,1.58,447,60,18976,18884,92,7,0,0,1,19
+Mancherial,River Godari,9,9,7.25,9,7,193,13021,0,170.66,69,0.05,30,589,13021,12877,140,4,47,53,1,0
+Mandamarri,Godavari River,9,5.5,5.5,5.5,3,5,3052,0,50,60,0.5,20,312,3052,3050,2,0,58,42,1,10
+Manuguru,River Godavari through SCCL fillter beds,3.2,0,0,1.3,3,0,0,836,54,99,0.04,3,70,0,0,0,0,99,1,1,0
+Medak,Manjeera River & Haldivagu,4.4,4.4,0,0,8,0,13216,50,52,0,2.2,62,70,4429,4429,0,0,0,0,1,0
+Medchal,Ground Water and Surfer Water,4,0,0,1.3,0,0,3285,8,85,82,0.8,60,6,3285,3285,0,0,92,8,1,60
+Meerpet,HMWS & BORES,12.5,0,0,1.8,0,0,9650,11,63,99,2.5,70,10,9650,9620,30,0,99,1,1,0
+Metpally,Pedda Cheruvu,6.83,2,0,2.37,6,1,3759,300,54,60,0.3,203,121,3768,3759,9,0,60,40,1,33
+Miryalaguda,Peddadevulapally  NS left canal,10,10,10,3.8,4,3,10440,560,144,60,0.25,61,431,10440,10040,400,0,70,30,2,60
+Nagarkurnool,SURFACE & GROUND WATER ( RAMANPAD ),3,0,0,1.53,0,0,3600,0,44,95,0.3,86,2,3600,3600,0,0,95,5,1,100
+Narasmpet,Pakhala Vagu,2,0,0,0,0,0,4230,249,60,0,0,0,120,4230,3980,250,0,45,55,1,0
+Narayanpet,"SATYASAI WATER SUPPLY BOARD(KRISHNA WATER),BORES",5.2,0,0,2.12,0,0,4002,90,92,0,0.06,86,49,0,3982,20,0,45,55,1,0
+Nirmal,SRSP,10.86,9.5,9.5,9.5,6,26,10400,75,143,71,0.1,51,171,10400,10336,64,0,71,29,1,27059000
+Nizamabad,"Alisagar, Manchippa, Raghunath Tank, Masani",40,73,40,22.36,24,19,25832,520,721,85,0.52,567,218,25832,25746,86,0,46,54,1,43
+Pedda Amberpet,Bore Well / HMWS&SB,2.55,0,0,0,0,0,5104,0,60,98,0,33,34,5104,5104,0,0,98,2,2,0
+Peddapalli,Godhavari Water from GMWS&SB Pipeline & Bompelli Cheruvu,6.38,2.3,1.8,2.1,7,1,3342,120,18.46,60,0.2,4,252,3342,335,7,0,70,30,1,0
+Ramagundam,River Godavari,28,56,28,12.9,10,21,21450,0,285,60,0.2,16,762,21450,18409,11,0,46,54,1,55
+Sadasivpet,"HMWS,NANDIKANDI,EDULAVAGU",6.2,1.3,1.3,0.6,1,60,3400,13,46,16,3.4,94,103,3400,3390,10,0,76,24,1,41
+Sangareddy,Manjeera Dam,10.8,10,10,10,10,10,8546,210,129,0,0,180,5,8546,8246,300,0,0,0,1,0
+Satupally,Bore wells,3.6,0,0,0,0,0,0,60,88,95,0.77,29,58,0,0,0,0,0,0,1,0
+Shadnagar,Ground water and krishna water,6.5,1,0,2.5,0,25,5112,98,72,42,2.5,163,4,5112,5112,0,0,45,55,1,14
+Siddipet,LMD Yaswada,14.54,14.54,13.5,6.52,14,3,13722,54,175,58,0.1,240,144,0,13722,504,0,55.92,44.08,1,244
+Sircilla,"LMD, Karimnagar and Sircilla Manair river",8.35,8.35,7.9,5.2,1,2,10016,0,140,0,0,222,0,10016,9986,30,0,0,0,1,0
+Suryapet,Musi and Dosapahad,28.23,28.23,28.23,28.23,12,1,15861,130,465.5,90,0.2,0,467,15991,15632,229,0,90,10,1,0
+Vemulavada,,5.08,0,0,0,0,0,0,0,0,0,0.15,85,130,0,0,0,0,0,0,0,0
+Vikarabad,Shivasagar Tank and HMWS,8.1,4.94,4.94,4.94,13,6,10138,0,120,95,0.17,74,275,10138,10130,8,0,85,15,1,0
+Wanaparthy,Ramanpadu Balancing resorvior,12,8.5,0,0,0,0,8800,238,28,70,0.5,30,58,8820,8800,20,0,70,35,2,0
+Yellandu,"YELLANDULAPADU CHERUVU, KOTILINGALA BORES, 47 LEVEL BORES",4.72,4.5,4.5,4.5,5,1,5992,20,28,70,16,7,69,5992,5980,12,0,80,20,1,150
+Zaheerabad,Singoor dam back canal river water at itikepaly village,5.4,5.4,0,7.4,2,0,5324,325,109,90,1.2,165,0,5324,5324,0,0,92,8,45,16
